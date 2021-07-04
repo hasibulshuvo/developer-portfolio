@@ -16,6 +16,7 @@ h1{
 }
 section{
     display: flex;
+    margin: 100px;
 }
 .half-width{
     width: 50%;
@@ -36,4 +37,19 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.color-2{
+    color: mediumvioletred;
+}
+.color-3{
+    color: seagreen;
+
+}
+.color-4{
+    color: red;
+}
+.my-hope{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
